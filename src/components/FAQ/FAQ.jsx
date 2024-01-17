@@ -28,8 +28,8 @@ const FAQ = () => {
   };
 
   return (
-    <div className="max-w-screen-xl font-inter mx-auto px-4 sm:px-5 container md:px-10 my-20">
-      <span className="text-5xl bg-gradient-to-t from-gradient-4 to-gradient-1 bg-clip-text text-transparent font-bold mb-10">
+    <div className="max-w-screen-xl font-inter mx-auto px-4 sm:px-5 container md:px-10 my-32">
+      <span className="text-5xl bg-gradient-to-t from-gradient-4 to-gradient-1 bg-clip-text text-transparent font-bold inline-block mb-5">
         FAQ
       </span>
       <div className="max-w-3xl w-full">

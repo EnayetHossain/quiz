@@ -109,7 +109,7 @@ const Study = () => {
         ))}
       </Swiper>
 
-      <div className="flex justify-between items-center mx-auto mt-4 px-4">
+      <div className="flex justify-between items-center mx-auto mt-9 px-5">
         <svg
           width="30"
           height="31"
