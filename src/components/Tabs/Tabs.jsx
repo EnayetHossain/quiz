@@ -9,7 +9,7 @@ const Tabs = () => {
   const [activeTab, setActiveTab] = useState("tab1");
 
   return (
-    <div className="Tabs max-w-screen-xl mx-auto px-4 sm:px-5 md:px-10 mt-10">
+    <div className="Tabs max-w-screen-xl mx-auto px-4 sm:px-5 md:px-10 my-10">
       <div className="text-xl sm:text-[1.7em] font-bold font-montserrat mb-10 bg-gradient-to-t from-gradient-6 to-gradient-5 bg-clip-text text-transparent">
         Relations and Functions ( Mathematics )
       </div>
